@@ -4,7 +4,7 @@ A collection of programs demonstrating loop structures and pattern problems in p
 ## What it offers ?
 - Easy to follow and beginner-friendly code
 - Helpful for logic building
-- 
+  
 ## How to Use
 - Open any .cpp file in your preferred IDE or compiler
 - Compile and run to see the pattern output
